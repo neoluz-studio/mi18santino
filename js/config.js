@@ -21,9 +21,9 @@ window.INVITATION_CONFIG = {
 
     venue: {
         dateLabel: "05 DE SEPTIEMBRE 2026",
-        timeLabel: "| 13:00 HS |",
-        name: "Club Deportivo Fraga",
-        mapsUrl: "https://www.google.com/maps/search/?api=1&query=Club+Deportivo+Fraga%2C+25+de+Mayo%2C+Maria+del+Carmen+del+Bosco"
+        timeLabel: "| 12:30 HS |",
+        name: "Quincho B° Aires del Sur",
+        mapsUrl: "https://maps.app.goo.gl/CTbpcMrgzDezijoa7"
     },
 
     dressCode: "Elegante Sport",
