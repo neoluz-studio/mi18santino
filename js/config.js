@@ -22,8 +22,8 @@ window.INVITATION_CONFIG = {
     venue: {
         dateLabel: "05 DE SEPTIEMBRE 2026",
         timeLabel: "| 12:30 HS |",
-        name: "Quincho B° Aires del Sur",
-        mapsUrl: "https://maps.app.goo.gl/CTbpcMrgzDezijoa7"
+        name: "Quincho Los Pinos",
+        mapsUrl: "https://maps.app.goo.gl/BCYudbx5AfzYZr6B7"
     },
 
     dressCode: "Elegante Sport",
